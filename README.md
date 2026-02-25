@@ -7,3 +7,6 @@ Robot Pos N1
 
 Robot Pos N2
 
+<img width="549" height="415" alt="изображение" src="https://github.com/user-attachments/assets/896fc363-7592-42b5-8475-b20b30f14640" />
+
+
